@@ -1,18 +1,14 @@
 {
-    "id": 57436521,
-    "name": "Grief",
-    "author": "ICEDCAVE",
+    "id": 1234567890,
+    "name": "Grief But Bad",
+    "author": "Araozoh",
     "creators": [],
-    "verifier": "Doggie",
+    "verifier": "Araozoh",
     "verification": "https://youtube.com/watch?v=gB8slBPlOjc",
-    "percentToQualify": 76,
+    "percentToQualify": 97,
     "password": "Free To Copy",
     "records": [
         {
-            "user": "Zoink",
-            "link": "https://www.youtube.com/watch?v=B9uL1Tnkeuw",
-            "percent": 100,
-            "hz": 360
         }
     ]
 }
