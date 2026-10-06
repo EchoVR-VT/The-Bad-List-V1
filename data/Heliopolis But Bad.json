@@ -8,9 +8,11 @@
     "percentToQualify": 100,
     "password": "Didnt Set One",
     "records": [
-        "user": "Araozoh",
+        {
+            "user": "Araozoh",
             "link": "https://youtu.be/LY_AAAogLco",
             "percent": 100,
             "hz": 120
+        }
     ]
 }
