@@ -2,10 +2,15 @@
     "id": 150085654,
     "name": "Heliopolis But Bad",
     "author": "Araozoh",
-    "creators": [],
+    "creators": ["Araozoh"],
     "verifier": "Araozoh",
     "verification": "https://youtu.be/LY_AAAogLco",
     "percentToQualify": 100,
     "password": "Didnt Set One",
-    "records": []
+    "records": [
+        "user": "Araozoh",
+            "link": "https://youtu.be/LY_AAAogLco",
+            "percent": 100,
+            "hz": 120
+    ]
 }
