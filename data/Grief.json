@@ -10,8 +10,9 @@
     "records": [
         {
             "user": "Zoink",
+            "link": "https://www.youtube.com/watch?v=B9uL1Tnkeuw",
             "percent": 100,
-            "link": "https://www.youtube.com/watch?v=B9uL1Tnkeuw"
+            "hz": 360
         }
     ]
 }
